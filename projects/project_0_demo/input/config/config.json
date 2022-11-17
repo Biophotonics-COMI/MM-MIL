@@ -1,0 +1,75 @@
+{
+    "dataset": {
+        "metadata": {
+            "meta_path":"input/metadata/index.csv"
+        },
+        "images": {
+            "image_names": "b++trans",
+            "area_names": "area_id",
+            "channels": [
+                "SHG",
+                "THG",
+                "2PF",
+                "3PF"
+              ],
+            "image_folder": "/home/derek/All_Data/2020_WSL_SLAM/All_SLAM_tiles/All_images",
+            "grid_folder": "/home/derek/All_Data/2020_WSL_SLAM/All_SLAM_tiles/grid_files", 
+            "file_format": "tif"
+        },
+        "tile": {
+            "size": 256,
+            "overlap": 0.0
+        },
+        "partition": {
+            "split_field": "role",
+            "training_values": [1],
+            "validation_values": [2],
+            "test_values": [3]
+        },
+        "merge_object": {
+            "flag": true,
+            "merge_field": "bag"
+        }
+    },
+    "prepare":{
+        "normalization":{
+            "apply_fixed_value": true,
+            "mean": [0.30378149, 0.13761758, 0.19287212, 0.06911078],
+            "std": [0.2791681, 0.16830761, 0.18113831, 0.13110698]
+        }
+    },
+    "train": { 
+        "target": {
+            "label_field": "bag_label",
+            "control_value": 0,
+            "class_count": 2
+        },
+        "model": {
+            "name": "resnet34",
+            "momentum": 0.0, 
+            "lite": true,
+            "pretrained": "",
+            "fix_weight": false,
+            "epochs": 100,
+            "params": {
+                "learning_rate": 0.00015,
+                "weight_decay": 1e-5,
+                "batch_size": 600
+            },
+            "top_k": 10
+        },
+        "criterion":{
+            "positive_class_weights": 0.5
+            },
+        "load_worker": 30,
+        "validation": {
+            "add_val": true,
+            "test_every": 10,
+            "batch_size": 600
+        }
+    },
+    "test":{
+        "batch_size": 600
+    }
+  }
+  

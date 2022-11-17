@@ -1,0 +1,613 @@
+basename,b++trans,transform,area_id,source,patient_id,patient_stage,role,bag,bag_label,label
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++original,original,area_1,Sixian,20161010,Stage1,1,78,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++original,original,area_2,Sixian,20161010,Stage1,1,70,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++original,original,area_3,Sixian,20161010,Stage1,1,61,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++original,original,area_4,Sixian,20161010,Stage1,1,54,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++v_flip,v_flip,area_1,Sixian,20161010,Stage1,1,25,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++v_flip,v_flip,area_2,Sixian,20161010,Stage1,1,9,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++v_flip,v_flip,area_3,Sixian,20161010,Stage1,1,58,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++v_flip,v_flip,area_4,Sixian,20161010,Stage1,1,87,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++h_flip,h_flip,area_1,Sixian,20161010,Stage1,1,86,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++h_flip,h_flip,area_2,Sixian,20161010,Stage1,1,64,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++h_flip,h_flip,area_3,Sixian,20161010,Stage1,1,75,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++h_flip,h_flip,area_4,Sixian,20161010,Stage1,1,34,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++vh_flip,vh_flip,area_1,Sixian,20161010,Stage1,1,3,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++vh_flip,vh_flip,area_2,Sixian,20161010,Stage1,1,6,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++vh_flip,vh_flip,area_3,Sixian,20161010,Stage1,1,28,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++vh_flip,vh_flip,area_4,Sixian,20161010,Stage1,1,33,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++rot+90,rot+90,area_1,Sixian,20161010,Stage1,1,52,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++rot+90,rot+90,area_2,Sixian,20161010,Stage1,1,22,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++rot+90,rot+90,area_3,Sixian,20161010,Stage1,1,88,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++rot+90,rot+90,area_4,Sixian,20161010,Stage1,1,39,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++rot-90,rot-90,area_1,Sixian,20161010,Stage1,1,21,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++rot-90,rot-90,area_2,Sixian,20161010,Stage1,1,24,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++rot-90,rot-90,area_3,Sixian,20161010,Stage1,1,93,1,2
+10102016 human breast cancer_1mm_2_tumor site,10102016 human breast cancer_1mm_2_tumor site++rot-90,rot-90,area_4,Sixian,20161010,Stage1,1,84,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++original,original,area_1,Sixian,20161010,Stage1,1,26,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++original,original,area_2,Sixian,20161010,Stage1,1,49,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++original,original,area_3,Sixian,20161010,Stage1,1,74,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++original,original,area_4,Sixian,20161010,Stage1,1,2,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++v_flip,v_flip,area_1,Sixian,20161010,Stage1,1,50,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++v_flip,v_flip,area_2,Sixian,20161010,Stage1,1,35,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++v_flip,v_flip,area_3,Sixian,20161010,Stage1,1,40,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++v_flip,v_flip,area_4,Sixian,20161010,Stage1,1,43,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++h_flip,h_flip,area_1,Sixian,20161010,Stage1,1,10,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++h_flip,h_flip,area_2,Sixian,20161010,Stage1,1,79,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++h_flip,h_flip,area_3,Sixian,20161010,Stage1,1,16,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++h_flip,h_flip,area_4,Sixian,20161010,Stage1,1,89,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++vh_flip,vh_flip,area_1,Sixian,20161010,Stage1,1,60,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++vh_flip,vh_flip,area_2,Sixian,20161010,Stage1,1,41,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++vh_flip,vh_flip,area_3,Sixian,20161010,Stage1,1,94,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++vh_flip,vh_flip,area_4,Sixian,20161010,Stage1,1,18,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++rot+90,rot+90,area_1,Sixian,20161010,Stage1,1,68,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++rot+90,rot+90,area_2,Sixian,20161010,Stage1,1,47,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++rot+90,rot+90,area_3,Sixian,20161010,Stage1,1,67,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++rot+90,rot+90,area_4,Sixian,20161010,Stage1,1,8,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++rot-90,rot-90,area_1,Sixian,20161010,Stage1,1,76,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++rot-90,rot-90,area_2,Sixian,20161010,Stage1,1,56,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++rot-90,rot-90,area_3,Sixian,20161010,Stage1,1,7,1,2
+10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site,10102016 human breast cancer_1p5mm_1_offsetbetter_tumor site++rot-90,rot-90,area_4,Sixian,20161010,Stage1,1,63,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++original,original,area_1,Sixian,20161010,Stage1,1,81,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++original,original,area_2,Sixian,20161010,Stage1,1,37,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++original,original,area_3,Sixian,20161010,Stage1,1,48,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++original,original,area_4,Sixian,20161010,Stage1,1,38,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++v_flip,v_flip,area_1,Sixian,20161010,Stage1,1,45,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++v_flip,v_flip,area_2,Sixian,20161010,Stage1,1,1,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++v_flip,v_flip,area_3,Sixian,20161010,Stage1,1,32,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++v_flip,v_flip,area_4,Sixian,20161010,Stage1,1,51,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++h_flip,h_flip,area_1,Sixian,20161010,Stage1,1,5,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++h_flip,h_flip,area_2,Sixian,20161010,Stage1,1,69,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++h_flip,h_flip,area_3,Sixian,20161010,Stage1,1,15,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++h_flip,h_flip,area_4,Sixian,20161010,Stage1,1,27,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++vh_flip,vh_flip,area_1,Sixian,20161010,Stage1,1,71,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++vh_flip,vh_flip,area_2,Sixian,20161010,Stage1,1,80,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++vh_flip,vh_flip,area_3,Sixian,20161010,Stage1,1,57,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++vh_flip,vh_flip,area_4,Sixian,20161010,Stage1,1,30,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++rot+90,rot+90,area_1,Sixian,20161010,Stage1,1,77,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++rot+90,rot+90,area_2,Sixian,20161010,Stage1,1,11,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++rot+90,rot+90,area_3,Sixian,20161010,Stage1,1,46,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++rot+90,rot+90,area_4,Sixian,20161010,Stage1,1,72,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++rot-90,rot-90,area_1,Sixian,20161010,Stage1,1,62,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++rot-90,rot-90,area_2,Sixian,20161010,Stage1,1,85,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++rot-90,rot-90,area_3,Sixian,20161010,Stage1,1,66,1,2
+10102016 human breast cancer_cancer_1p5mm_6,10102016 human breast cancer_cancer_1p5mm_6++rot-90,rot-90,area_4,Sixian,20161010,Stage1,1,95,1,2
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++original,original,area_1,Sixian,20161010,Stage1,1,41,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++original,original,area_2,Sixian,20161010,Stage1,1,28,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++original,original,area_3,Sixian,20161010,Stage1,1,20,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++original,original,area_4,Sixian,20161010,Stage1,1,54,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++v_flip,v_flip,area_1,Sixian,20161010,Stage1,1,32,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++v_flip,v_flip,area_2,Sixian,20161010,Stage1,1,38,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++v_flip,v_flip,area_3,Sixian,20161010,Stage1,1,60,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++v_flip,v_flip,area_4,Sixian,20161010,Stage1,1,4,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++h_flip,h_flip,area_1,Sixian,20161010,Stage1,1,71,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++h_flip,h_flip,area_2,Sixian,20161010,Stage1,1,64,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++h_flip,h_flip,area_3,Sixian,20161010,Stage1,1,25,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++h_flip,h_flip,area_4,Sixian,20161010,Stage1,1,33,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++vh_flip,vh_flip,area_1,Sixian,20161010,Stage1,1,58,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++vh_flip,vh_flip,area_2,Sixian,20161010,Stage1,1,8,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++vh_flip,vh_flip,area_3,Sixian,20161010,Stage1,1,18,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++vh_flip,vh_flip,area_4,Sixian,20161010,Stage1,1,36,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++rot+90,rot+90,area_1,Sixian,20161010,Stage1,1,5,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++rot+90,rot+90,area_2,Sixian,20161010,Stage1,1,11,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++rot+90,rot+90,area_3,Sixian,20161010,Stage1,1,14,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++rot+90,rot+90,area_4,Sixian,20161010,Stage1,1,7,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++rot-90,rot-90,area_1,Sixian,20161010,Stage1,1,23,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++rot-90,rot-90,area_2,Sixian,20161010,Stage1,1,67,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++rot-90,rot-90,area_3,Sixian,20161010,Stage1,1,48,1,1
+10102016 human breast cancer_normal_2mm_3,10102016 human breast cancer_normal_2mm_3++rot-90,rot-90,area_4,Sixian,20161010,Stage1,1,35,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++original,original,area_1,Sixian,20161010,Stage1,1,70,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++original,original,area_2,Sixian,20161010,Stage1,1,2,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++original,original,area_3,Sixian,20161010,Stage1,1,42,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++original,original,area_4,Sixian,20161010,Stage1,1,6,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++v_flip,v_flip,area_1,Sixian,20161010,Stage1,1,39,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++v_flip,v_flip,area_2,Sixian,20161010,Stage1,1,62,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++v_flip,v_flip,area_3,Sixian,20161010,Stage1,1,43,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++v_flip,v_flip,area_4,Sixian,20161010,Stage1,1,16,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++h_flip,h_flip,area_1,Sixian,20161010,Stage1,1,29,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++h_flip,h_flip,area_2,Sixian,20161010,Stage1,1,15,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++h_flip,h_flip,area_3,Sixian,20161010,Stage1,1,56,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++h_flip,h_flip,area_4,Sixian,20161010,Stage1,1,46,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++vh_flip,vh_flip,area_1,Sixian,20161010,Stage1,1,65,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++vh_flip,vh_flip,area_2,Sixian,20161010,Stage1,1,55,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++vh_flip,vh_flip,area_3,Sixian,20161010,Stage1,1,3,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++vh_flip,vh_flip,area_4,Sixian,20161010,Stage1,1,17,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++rot+90,rot+90,area_1,Sixian,20161010,Stage1,1,34,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++rot+90,rot+90,area_2,Sixian,20161010,Stage1,1,13,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++rot+90,rot+90,area_3,Sixian,20161010,Stage1,1,21,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++rot+90,rot+90,area_4,Sixian,20161010,Stage1,1,50,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++rot-90,rot-90,area_1,Sixian,20161010,Stage1,1,10,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++rot-90,rot-90,area_2,Sixian,20161010,Stage1,1,61,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++rot-90,rot-90,area_3,Sixian,20161010,Stage1,1,49,1,1
+10102016 human breast cancer_normal_3mm_1,10102016 human breast cancer_normal_3mm_1++rot-90,rot-90,area_4,Sixian,20161010,Stage1,1,22,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++original,original,area_1,Sixian,20161010,Stage1,1,12,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++original,original,area_2,Sixian,20161010,Stage1,1,68,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++original,original,area_3,Sixian,20161010,Stage1,1,0,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++original,original,area_4,Sixian,20161010,Stage1,1,1,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++v_flip,v_flip,area_1,Sixian,20161010,Stage1,1,31,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++v_flip,v_flip,area_2,Sixian,20161010,Stage1,1,47,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++v_flip,v_flip,area_3,Sixian,20161010,Stage1,1,27,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++v_flip,v_flip,area_4,Sixian,20161010,Stage1,1,59,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++h_flip,h_flip,area_1,Sixian,20161010,Stage1,1,66,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++h_flip,h_flip,area_2,Sixian,20161010,Stage1,1,26,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++h_flip,h_flip,area_3,Sixian,20161010,Stage1,1,19,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++h_flip,h_flip,area_4,Sixian,20161010,Stage1,1,63,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++vh_flip,vh_flip,area_1,Sixian,20161010,Stage1,1,37,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++vh_flip,vh_flip,area_2,Sixian,20161010,Stage1,1,52,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++vh_flip,vh_flip,area_3,Sixian,20161010,Stage1,1,53,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++vh_flip,vh_flip,area_4,Sixian,20161010,Stage1,1,44,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++rot+90,rot+90,area_1,Sixian,20161010,Stage1,1,45,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++rot+90,rot+90,area_2,Sixian,20161010,Stage1,1,57,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++rot+90,rot+90,area_3,Sixian,20161010,Stage1,1,30,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++rot+90,rot+90,area_4,Sixian,20161010,Stage1,1,24,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++rot-90,rot-90,area_1,Sixian,20161010,Stage1,1,40,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++rot-90,rot-90,area_2,Sixian,20161010,Stage1,1,51,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++rot-90,rot-90,area_3,Sixian,20161010,Stage1,1,69,1,1
+10102016 human breast cancer_tme_1mm_3_better alignment,10102016 human breast cancer_tme_1mm_3_better alignment++rot-90,rot-90,area_4,Sixian,20161010,Stage1,1,9,1,1
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++original,original,area_1,Sixian,20161010,Stage1,1,59,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++original,original,area_2,Sixian,20161010,Stage1,1,20,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++original,original,area_3,Sixian,20161010,Stage1,1,83,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++original,original,area_4,Sixian,20161010,Stage1,1,4,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++v_flip,v_flip,area_1,Sixian,20161010,Stage1,1,13,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++v_flip,v_flip,area_2,Sixian,20161010,Stage1,1,73,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++v_flip,v_flip,area_3,Sixian,20161010,Stage1,1,31,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++v_flip,v_flip,area_4,Sixian,20161010,Stage1,1,0,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++h_flip,h_flip,area_1,Sixian,20161010,Stage1,1,29,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++h_flip,h_flip,area_2,Sixian,20161010,Stage1,1,17,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++h_flip,h_flip,area_3,Sixian,20161010,Stage1,1,65,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++h_flip,h_flip,area_4,Sixian,20161010,Stage1,1,12,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++vh_flip,vh_flip,area_1,Sixian,20161010,Stage1,1,42,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++vh_flip,vh_flip,area_2,Sixian,20161010,Stage1,1,82,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++vh_flip,vh_flip,area_3,Sixian,20161010,Stage1,1,92,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++vh_flip,vh_flip,area_4,Sixian,20161010,Stage1,1,23,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++rot+90,rot+90,area_1,Sixian,20161010,Stage1,1,91,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++rot+90,rot+90,area_2,Sixian,20161010,Stage1,1,53,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++rot+90,rot+90,area_3,Sixian,20161010,Stage1,1,44,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++rot+90,rot+90,area_4,Sixian,20161010,Stage1,1,55,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++rot-90,rot-90,area_1,Sixian,20161010,Stage1,1,36,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++rot-90,rot-90,area_2,Sixian,20161010,Stage1,1,14,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++rot-90,rot-90,area_3,Sixian,20161010,Stage1,1,90,1,2
+10102016 human breast cancer_tme_2mm_5,10102016 human breast cancer_tme_2mm_5++rot-90,rot-90,area_4,Sixian,20161010,Stage1,1,19,1,2
+10132016 human breast cancer normal_1p5mm_1,10132016 human breast cancer normal_1p5mm_1++original,original,whole,Sixian,20161013,Stage3,3,459,1,1
+10132016 human breast cancer normal_1p5mm_1,10132016 human breast cancer normal_1p5mm_1++v_flip,v_flip,whole,Sixian,20161013,Stage3,3,465,1,1
+10132016 human breast cancer normal_1p5mm_1,10132016 human breast cancer normal_1p5mm_1++h_flip,h_flip,whole,Sixian,20161013,Stage3,3,460,1,1
+10132016 human breast cancer normal_1p5mm_1,10132016 human breast cancer normal_1p5mm_1++vh_flip,vh_flip,whole,Sixian,20161013,Stage3,3,458,1,1
+10132016 human breast cancer normal_1p5mm_1,10132016 human breast cancer normal_1p5mm_1++rot+90,rot+90,whole,Sixian,20161013,Stage3,3,463,1,1
+10132016 human breast cancer normal_1p5mm_1,10132016 human breast cancer normal_1p5mm_1++rot-90,rot-90,whole,Sixian,20161013,Stage3,3,465,1,1
+11022016 healthy 1p5mm_1,11022016 healthy 1p5mm_1++original,original,whole,Sixian,20161102,Healthy,3,498,0,0
+11022016 healthy 1p5mm_1,11022016 healthy 1p5mm_1++v_flip,v_flip,whole,Sixian,20161102,Healthy,3,508,0,0
+11022016 healthy 1p5mm_1,11022016 healthy 1p5mm_1++h_flip,h_flip,whole,Sixian,20161102,Healthy,3,476,0,0
+11022016 healthy 1p5mm_1,11022016 healthy 1p5mm_1++vh_flip,vh_flip,whole,Sixian,20161102,Healthy,3,482,0,0
+11022016 healthy 1p5mm_1,11022016 healthy 1p5mm_1++rot+90,rot+90,whole,Sixian,20161102,Healthy,3,474,0,0
+11022016 healthy 1p5mm_1,11022016 healthy 1p5mm_1++rot-90,rot-90,whole,Sixian,20161102,Healthy,3,486,0,0
+11022016 healthy 2mm_3,11022016 healthy 2mm_3++original,original,whole,Sixian,20161102,Healthy,3,507,0,0
+11022016 healthy 2mm_3,11022016 healthy 2mm_3++v_flip,v_flip,whole,Sixian,20161102,Healthy,3,497,0,0
+11022016 healthy 2mm_3,11022016 healthy 2mm_3++h_flip,h_flip,whole,Sixian,20161102,Healthy,3,485,0,0
+11022016 healthy 2mm_3,11022016 healthy 2mm_3++vh_flip,vh_flip,whole,Sixian,20161102,Healthy,3,502,0,0
+11022016 healthy 2mm_3,11022016 healthy 2mm_3++rot+90,rot+90,whole,Sixian,20161102,Healthy,3,509,0,0
+11022016 healthy 2mm_3,11022016 healthy 2mm_3++rot-90,rot-90,whole,Sixian,20161102,Healthy,3,506,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++original,original,area_1,Sixian,20170406,Healthy,1,255,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++original,original,area_2,Sixian,20170406,Healthy,1,150,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++original,original,area_3,Sixian,20170406,Healthy,1,221,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++original,original,area_4,Sixian,20170406,Healthy,1,133,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++v_flip,v_flip,area_1,Sixian,20170406,Healthy,1,239,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++v_flip,v_flip,area_2,Sixian,20170406,Healthy,1,190,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++v_flip,v_flip,area_3,Sixian,20170406,Healthy,1,163,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++v_flip,v_flip,area_4,Sixian,20170406,Healthy,1,266,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++h_flip,h_flip,area_1,Sixian,20170406,Healthy,1,124,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++h_flip,h_flip,area_2,Sixian,20170406,Healthy,1,287,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++h_flip,h_flip,area_3,Sixian,20170406,Healthy,1,306,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++h_flip,h_flip,area_4,Sixian,20170406,Healthy,1,101,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++vh_flip,vh_flip,area_1,Sixian,20170406,Healthy,1,253,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++vh_flip,vh_flip,area_2,Sixian,20170406,Healthy,1,267,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++vh_flip,vh_flip,area_3,Sixian,20170406,Healthy,1,176,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++vh_flip,vh_flip,area_4,Sixian,20170406,Healthy,1,217,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++rot+90,rot+90,area_1,Sixian,20170406,Healthy,1,241,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++rot+90,rot+90,area_2,Sixian,20170406,Healthy,1,194,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++rot+90,rot+90,area_3,Sixian,20170406,Healthy,1,265,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++rot+90,rot+90,area_4,Sixian,20170406,Healthy,1,213,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++rot-90,rot-90,area_1,Sixian,20170406,Healthy,1,191,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++rot-90,rot-90,area_2,Sixian,20170406,Healthy,1,271,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++rot-90,rot-90,area_3,Sixian,20170406,Healthy,1,270,0,0
+20170406_healthy_1mm_overplap100um_s1_m2_z170_13us,20170406_healthy_1mm_overplap100um_s1_m2_z170_13us++rot-90,rot-90,area_4,Sixian,20170406,Healthy,1,224,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++original,original,area_1,Sixian,20170406,Healthy,1,207,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++original,original,area_2,Sixian,20170406,Healthy,1,160,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++original,original,area_3,Sixian,20170406,Healthy,1,141,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++original,original,area_4,Sixian,20170406,Healthy,1,148,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++v_flip,v_flip,area_1,Sixian,20170406,Healthy,1,187,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++v_flip,v_flip,area_2,Sixian,20170406,Healthy,1,138,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++v_flip,v_flip,area_3,Sixian,20170406,Healthy,1,169,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++v_flip,v_flip,area_4,Sixian,20170406,Healthy,1,102,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++h_flip,h_flip,area_1,Sixian,20170406,Healthy,1,155,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++h_flip,h_flip,area_2,Sixian,20170406,Healthy,1,188,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++h_flip,h_flip,area_3,Sixian,20170406,Healthy,1,284,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++h_flip,h_flip,area_4,Sixian,20170406,Healthy,1,158,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++vh_flip,vh_flip,area_1,Sixian,20170406,Healthy,1,273,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++vh_flip,vh_flip,area_2,Sixian,20170406,Healthy,1,175,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++vh_flip,vh_flip,area_3,Sixian,20170406,Healthy,1,244,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++vh_flip,vh_flip,area_4,Sixian,20170406,Healthy,1,107,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++rot+90,rot+90,area_1,Sixian,20170406,Healthy,1,225,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++rot+90,rot+90,area_2,Sixian,20170406,Healthy,1,162,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++rot+90,rot+90,area_3,Sixian,20170406,Healthy,1,157,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++rot+90,rot+90,area_4,Sixian,20170406,Healthy,1,164,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++rot-90,rot-90,area_1,Sixian,20170406,Healthy,1,219,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++rot-90,rot-90,area_2,Sixian,20170406,Healthy,1,258,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++rot-90,rot-90,area_3,Sixian,20170406,Healthy,1,97,0,0
+20170406_healthy_1mm_overplap100um_s2_m1_z170_12us,20170406_healthy_1mm_overplap100um_s2_m1_z170_12us++rot-90,rot-90,area_4,Sixian,20170406,Healthy,1,189,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++original,original,area_1,Sixian,20170406,Healthy,1,261,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++original,original,area_2,Sixian,20170406,Healthy,1,144,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++original,original,area_3,Sixian,20170406,Healthy,1,307,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++original,original,area_4,Sixian,20170406,Healthy,1,223,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++v_flip,v_flip,area_1,Sixian,20170406,Healthy,1,192,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++v_flip,v_flip,area_2,Sixian,20170406,Healthy,1,123,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++v_flip,v_flip,area_3,Sixian,20170406,Healthy,1,159,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++v_flip,v_flip,area_4,Sixian,20170406,Healthy,1,294,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++h_flip,h_flip,area_1,Sixian,20170406,Healthy,1,293,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++h_flip,h_flip,area_2,Sixian,20170406,Healthy,1,137,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++h_flip,h_flip,area_3,Sixian,20170406,Healthy,1,182,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++h_flip,h_flip,area_4,Sixian,20170406,Healthy,1,197,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++vh_flip,vh_flip,area_1,Sixian,20170406,Healthy,1,198,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++vh_flip,vh_flip,area_2,Sixian,20170406,Healthy,1,114,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++vh_flip,vh_flip,area_3,Sixian,20170406,Healthy,1,272,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++vh_flip,vh_flip,area_4,Sixian,20170406,Healthy,1,262,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++rot+90,rot+90,area_1,Sixian,20170406,Healthy,1,161,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++rot+90,rot+90,area_2,Sixian,20170406,Healthy,1,165,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++rot+90,rot+90,area_3,Sixian,20170406,Healthy,1,127,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++rot+90,rot+90,area_4,Sixian,20170406,Healthy,1,218,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++rot-90,rot-90,area_1,Sixian,20170406,Healthy,1,134,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++rot-90,rot-90,area_2,Sixian,20170406,Healthy,1,177,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++rot-90,rot-90,area_3,Sixian,20170406,Healthy,1,228,0,0
+20170406_healthy_1mm_overplap100um_s3_m1_z170_12us,20170406_healthy_1mm_overplap100um_s3_m1_z170_12us++rot-90,rot-90,area_4,Sixian,20170406,Healthy,1,211,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++original,original,area_1,Sixian,20170427,Healthy,2,335,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++original,original,area_2,Sixian,20170427,Healthy,2,334,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++original,original,area_3,Sixian,20170427,Healthy,2,398,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++original,original,area_4,Sixian,20170427,Healthy,2,332,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++v_flip,v_flip,area_1,Sixian,20170427,Healthy,2,450,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++v_flip,v_flip,area_2,Sixian,20170427,Healthy,2,424,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++v_flip,v_flip,area_3,Sixian,20170427,Healthy,2,407,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++v_flip,v_flip,area_4,Sixian,20170427,Healthy,2,338,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++h_flip,h_flip,area_1,Sixian,20170427,Healthy,2,371,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++h_flip,h_flip,area_2,Sixian,20170427,Healthy,2,389,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++h_flip,h_flip,area_3,Sixian,20170427,Healthy,2,448,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++h_flip,h_flip,area_4,Sixian,20170427,Healthy,2,328,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++vh_flip,vh_flip,area_1,Sixian,20170427,Healthy,2,336,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++vh_flip,vh_flip,area_2,Sixian,20170427,Healthy,2,454,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++vh_flip,vh_flip,area_3,Sixian,20170427,Healthy,2,385,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++vh_flip,vh_flip,area_4,Sixian,20170427,Healthy,2,422,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++rot+90,rot+90,area_1,Sixian,20170427,Healthy,2,428,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++rot+90,rot+90,area_2,Sixian,20170427,Healthy,2,327,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++rot+90,rot+90,area_3,Sixian,20170427,Healthy,2,436,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++rot+90,rot+90,area_4,Sixian,20170427,Healthy,2,453,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++rot-90,rot-90,area_1,Sixian,20170427,Healthy,2,358,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++rot-90,rot-90,area_2,Sixian,20170427,Healthy,2,354,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++rot-90,rot-90,area_3,Sixian,20170427,Healthy,2,397,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m1_z190_20us++rot-90,rot-90,area_4,Sixian,20170427,Healthy,2,446,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++original,original,area_1,Sixian,20170427,Healthy,2,321,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++original,original,area_2,Sixian,20170427,Healthy,2,425,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++original,original,area_3,Sixian,20170427,Healthy,2,330,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++original,original,area_4,Sixian,20170427,Healthy,2,427,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++v_flip,v_flip,area_1,Sixian,20170427,Healthy,2,455,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++v_flip,v_flip,area_2,Sixian,20170427,Healthy,2,400,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++v_flip,v_flip,area_3,Sixian,20170427,Healthy,2,365,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++v_flip,v_flip,area_4,Sixian,20170427,Healthy,2,387,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++h_flip,h_flip,area_1,Sixian,20170427,Healthy,2,318,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++h_flip,h_flip,area_2,Sixian,20170427,Healthy,2,420,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++h_flip,h_flip,area_3,Sixian,20170427,Healthy,2,350,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++h_flip,h_flip,area_4,Sixian,20170427,Healthy,2,437,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++vh_flip,vh_flip,area_1,Sixian,20170427,Healthy,2,381,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++vh_flip,vh_flip,area_2,Sixian,20170427,Healthy,2,341,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++vh_flip,vh_flip,area_3,Sixian,20170427,Healthy,2,363,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++vh_flip,vh_flip,area_4,Sixian,20170427,Healthy,2,312,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++rot+90,rot+90,area_1,Sixian,20170427,Healthy,2,442,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++rot+90,rot+90,area_2,Sixian,20170427,Healthy,2,416,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++rot+90,rot+90,area_3,Sixian,20170427,Healthy,2,435,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++rot+90,rot+90,area_4,Sixian,20170427,Healthy,2,399,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++rot-90,rot-90,area_1,Sixian,20170427,Healthy,2,353,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++rot-90,rot-90,area_2,Sixian,20170427,Healthy,2,360,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++rot-90,rot-90,area_3,Sixian,20170427,Healthy,2,417,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m3_z180_20us++rot-90,rot-90,area_4,Sixian,20170427,Healthy,2,440,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++original,original,area_1,Sixian,20170427,Healthy,2,378,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++original,original,area_2,Sixian,20170427,Healthy,2,362,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++original,original,area_3,Sixian,20170427,Healthy,2,326,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++original,original,area_4,Sixian,20170427,Healthy,2,405,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++v_flip,v_flip,area_1,Sixian,20170427,Healthy,2,374,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++v_flip,v_flip,area_2,Sixian,20170427,Healthy,2,414,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++v_flip,v_flip,area_3,Sixian,20170427,Healthy,2,361,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++v_flip,v_flip,area_4,Sixian,20170427,Healthy,2,410,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++h_flip,h_flip,area_1,Sixian,20170427,Healthy,2,347,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++h_flip,h_flip,area_2,Sixian,20170427,Healthy,2,393,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++h_flip,h_flip,area_3,Sixian,20170427,Healthy,2,331,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++h_flip,h_flip,area_4,Sixian,20170427,Healthy,2,430,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++vh_flip,vh_flip,area_1,Sixian,20170427,Healthy,2,396,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++vh_flip,vh_flip,area_2,Sixian,20170427,Healthy,2,345,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++vh_flip,vh_flip,area_3,Sixian,20170427,Healthy,2,391,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++vh_flip,vh_flip,area_4,Sixian,20170427,Healthy,2,314,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++rot+90,rot+90,area_1,Sixian,20170427,Healthy,2,395,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++rot+90,rot+90,area_2,Sixian,20170427,Healthy,2,447,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++rot+90,rot+90,area_3,Sixian,20170427,Healthy,2,356,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++rot+90,rot+90,area_4,Sixian,20170427,Healthy,2,346,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++rot-90,rot-90,area_1,Sixian,20170427,Healthy,2,357,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++rot-90,rot-90,area_2,Sixian,20170427,Healthy,2,377,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++rot-90,rot-90,area_3,Sixian,20170427,Healthy,2,449,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m4_z180_20us++rot-90,rot-90,area_4,Sixian,20170427,Healthy,2,452,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++original,original,area_1,Sixian,20170427,Healthy,2,351,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++original,original,area_2,Sixian,20170427,Healthy,2,369,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++original,original,area_3,Sixian,20170427,Healthy,2,392,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++original,original,area_4,Sixian,20170427,Healthy,2,380,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++v_flip,v_flip,area_1,Sixian,20170427,Healthy,2,429,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++v_flip,v_flip,area_2,Sixian,20170427,Healthy,2,320,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++v_flip,v_flip,area_3,Sixian,20170427,Healthy,2,402,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++v_flip,v_flip,area_4,Sixian,20170427,Healthy,2,322,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++h_flip,h_flip,area_1,Sixian,20170427,Healthy,2,409,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++h_flip,h_flip,area_2,Sixian,20170427,Healthy,2,333,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++h_flip,h_flip,area_3,Sixian,20170427,Healthy,2,317,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++h_flip,h_flip,area_4,Sixian,20170427,Healthy,2,355,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++vh_flip,vh_flip,area_1,Sixian,20170427,Healthy,2,382,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++vh_flip,vh_flip,area_2,Sixian,20170427,Healthy,2,315,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++vh_flip,vh_flip,area_3,Sixian,20170427,Healthy,2,419,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++vh_flip,vh_flip,area_4,Sixian,20170427,Healthy,2,324,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++rot+90,rot+90,area_1,Sixian,20170427,Healthy,2,366,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++rot+90,rot+90,area_2,Sixian,20170427,Healthy,2,415,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++rot+90,rot+90,area_3,Sixian,20170427,Healthy,2,444,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++rot+90,rot+90,area_4,Sixian,20170427,Healthy,2,337,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++rot-90,rot-90,area_1,Sixian,20170427,Healthy,2,423,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++rot-90,rot-90,area_2,Sixian,20170427,Healthy,2,370,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++rot-90,rot-90,area_3,Sixian,20170427,Healthy,2,434,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us,20170427_healthy_1p5mm_overlap100um_s1_m5_z180_20us++rot-90,rot-90,area_4,Sixian,20170427,Healthy,2,323,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++original,original,area_1,Sixian,20170427,Healthy,2,313,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++original,original,area_2,Sixian,20170427,Healthy,2,340,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++original,original,area_3,Sixian,20170427,Healthy,2,433,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++original,original,area_4,Sixian,20170427,Healthy,2,439,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++v_flip,v_flip,area_1,Sixian,20170427,Healthy,2,379,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++v_flip,v_flip,area_2,Sixian,20170427,Healthy,2,342,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++v_flip,v_flip,area_3,Sixian,20170427,Healthy,2,349,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++v_flip,v_flip,area_4,Sixian,20170427,Healthy,2,372,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++h_flip,h_flip,area_1,Sixian,20170427,Healthy,2,445,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++h_flip,h_flip,area_2,Sixian,20170427,Healthy,2,421,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++h_flip,h_flip,area_3,Sixian,20170427,Healthy,2,376,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++h_flip,h_flip,area_4,Sixian,20170427,Healthy,2,412,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++vh_flip,vh_flip,area_1,Sixian,20170427,Healthy,2,404,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++vh_flip,vh_flip,area_2,Sixian,20170427,Healthy,2,325,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++vh_flip,vh_flip,area_3,Sixian,20170427,Healthy,2,438,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++vh_flip,vh_flip,area_4,Sixian,20170427,Healthy,2,431,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++rot+90,rot+90,area_1,Sixian,20170427,Healthy,2,329,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++rot+90,rot+90,area_2,Sixian,20170427,Healthy,2,426,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++rot+90,rot+90,area_3,Sixian,20170427,Healthy,2,373,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++rot+90,rot+90,area_4,Sixian,20170427,Healthy,2,411,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++rot-90,rot-90,area_1,Sixian,20170427,Healthy,2,386,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++rot-90,rot-90,area_2,Sixian,20170427,Healthy,2,343,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++rot-90,rot-90,area_3,Sixian,20170427,Healthy,2,359,0,0
+20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us,20170427_healthy_1p5mm_overlap100um_s1_m6_z190_20us++rot-90,rot-90,area_4,Sixian,20170427,Healthy,2,339,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++original,original,area_1,Sixian,20170427,Healthy,2,406,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++original,original,area_2,Sixian,20170427,Healthy,2,443,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++original,original,area_3,Sixian,20170427,Healthy,2,319,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++original,original,area_4,Sixian,20170427,Healthy,2,451,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++v_flip,v_flip,area_1,Sixian,20170427,Healthy,2,367,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++v_flip,v_flip,area_2,Sixian,20170427,Healthy,2,418,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++v_flip,v_flip,area_3,Sixian,20170427,Healthy,2,344,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++v_flip,v_flip,area_4,Sixian,20170427,Healthy,2,352,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++h_flip,h_flip,area_1,Sixian,20170427,Healthy,2,403,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++h_flip,h_flip,area_2,Sixian,20170427,Healthy,2,348,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++h_flip,h_flip,area_3,Sixian,20170427,Healthy,2,390,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++h_flip,h_flip,area_4,Sixian,20170427,Healthy,2,401,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++vh_flip,vh_flip,area_1,Sixian,20170427,Healthy,2,388,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++vh_flip,vh_flip,area_2,Sixian,20170427,Healthy,2,441,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++vh_flip,vh_flip,area_3,Sixian,20170427,Healthy,2,432,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++vh_flip,vh_flip,area_4,Sixian,20170427,Healthy,2,383,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++rot+90,rot+90,area_1,Sixian,20170427,Healthy,2,368,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++rot+90,rot+90,area_2,Sixian,20170427,Healthy,2,384,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++rot+90,rot+90,area_3,Sixian,20170427,Healthy,2,408,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++rot+90,rot+90,area_4,Sixian,20170427,Healthy,2,375,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++rot-90,rot-90,area_1,Sixian,20170427,Healthy,2,316,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++rot-90,rot-90,area_2,Sixian,20170427,Healthy,2,394,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++rot-90,rot-90,area_3,Sixian,20170427,Healthy,2,364,0,0
+20170427_healthy_2mm_overlap100um_s1_m2_z190_20us,20170427_healthy_2mm_overlap100um_s1_m2_z190_20us++rot-90,rot-90,area_4,Sixian,20170427,Healthy,2,413,0,0
+20170522_normal_1mm_overlap100um_s2_m1_z180_20us,20170522_normal_1mm_overlap100um_s2_m1_z180_20us++original,original,whole,Sixian,20170522,Stage2,3,463,1,1
+20170522_normal_1mm_overlap100um_s2_m1_z180_20us,20170522_normal_1mm_overlap100um_s2_m1_z180_20us++v_flip,v_flip,whole,Sixian,20170522,Stage2,3,468,1,1
+20170522_normal_1mm_overlap100um_s2_m1_z180_20us,20170522_normal_1mm_overlap100um_s2_m1_z180_20us++h_flip,h_flip,whole,Sixian,20170522,Stage2,3,467,1,1
+20170522_normal_1mm_overlap100um_s2_m1_z180_20us,20170522_normal_1mm_overlap100um_s2_m1_z180_20us++vh_flip,vh_flip,whole,Sixian,20170522,Stage2,3,466,1,1
+20170522_normal_1mm_overlap100um_s2_m1_z180_20us,20170522_normal_1mm_overlap100um_s2_m1_z180_20us++rot+90,rot+90,whole,Sixian,20170522,Stage2,3,470,1,1
+20170522_normal_1mm_overlap100um_s2_m1_z180_20us,20170522_normal_1mm_overlap100um_s2_m1_z180_20us++rot-90,rot-90,whole,Sixian,20170522,Stage2,3,461,1,1
+20170522_normal_1mm_overlap100um_s2_m2_z160_20us,20170522_normal_1mm_overlap100um_s2_m2_z160_20us++original,original,whole,Sixian,20170522,Stage2,3,473,1,1
+20170522_normal_1mm_overlap100um_s2_m2_z160_20us,20170522_normal_1mm_overlap100um_s2_m2_z160_20us++v_flip,v_flip,whole,Sixian,20170522,Stage2,3,462,1,1
+20170522_normal_1mm_overlap100um_s2_m2_z160_20us,20170522_normal_1mm_overlap100um_s2_m2_z160_20us++h_flip,h_flip,whole,Sixian,20170522,Stage2,3,456,1,1
+20170522_normal_1mm_overlap100um_s2_m2_z160_20us,20170522_normal_1mm_overlap100um_s2_m2_z160_20us++vh_flip,vh_flip,whole,Sixian,20170522,Stage2,3,467,1,1
+20170522_normal_1mm_overlap100um_s2_m2_z160_20us,20170522_normal_1mm_overlap100um_s2_m2_z160_20us++rot+90,rot+90,whole,Sixian,20170522,Stage2,3,464,1,1
+20170522_normal_1mm_overlap100um_s2_m2_z160_20us,20170522_normal_1mm_overlap100um_s2_m2_z160_20us++rot-90,rot-90,whole,Sixian,20170522,Stage2,3,456,1,1
+20170522_tumor_1mm_overlap100um_s1_m4_z150_20us,20170522_tumor_1mm_overlap100um_s1_m4_z150_20us++original,original,whole,Sixian,20170522,Stage2,3,472,1,2
+20170522_tumor_1mm_overlap100um_s1_m4_z150_20us,20170522_tumor_1mm_overlap100um_s1_m4_z150_20us++v_flip,v_flip,whole,Sixian,20170522,Stage2,3,461,1,2
+20170522_tumor_1mm_overlap100um_s1_m4_z150_20us,20170522_tumor_1mm_overlap100um_s1_m4_z150_20us++h_flip,h_flip,whole,Sixian,20170522,Stage2,3,468,1,2
+20170522_tumor_1mm_overlap100um_s1_m4_z150_20us,20170522_tumor_1mm_overlap100um_s1_m4_z150_20us++vh_flip,vh_flip,whole,Sixian,20170522,Stage2,3,469,1,2
+20170522_tumor_1mm_overlap100um_s1_m4_z150_20us,20170522_tumor_1mm_overlap100um_s1_m4_z150_20us++rot+90,rot+90,whole,Sixian,20170522,Stage2,3,471,1,2
+20170522_tumor_1mm_overlap100um_s1_m4_z150_20us,20170522_tumor_1mm_overlap100um_s1_m4_z150_20us++rot-90,rot-90,whole,Sixian,20170522,Stage2,3,473,1,2
+20170522_tumor_1p5mm_overlap100um_s1_m2_z100_20us,20170522_tumor_1p5mm_overlap100um_s1_m2_z100_20us++original,original,whole,Sixian,20170522,Stage2,3,460,1,2
+20170522_tumor_1p5mm_overlap100um_s1_m2_z100_20us,20170522_tumor_1p5mm_overlap100um_s1_m2_z100_20us++v_flip,v_flip,whole,Sixian,20170522,Stage2,3,457,1,2
+20170522_tumor_1p5mm_overlap100um_s1_m2_z100_20us,20170522_tumor_1p5mm_overlap100um_s1_m2_z100_20us++h_flip,h_flip,whole,Sixian,20170522,Stage2,3,464,1,2
+20170522_tumor_1p5mm_overlap100um_s1_m2_z100_20us,20170522_tumor_1p5mm_overlap100um_s1_m2_z100_20us++vh_flip,vh_flip,whole,Sixian,20170522,Stage2,3,458,1,2
+20170522_tumor_1p5mm_overlap100um_s1_m2_z100_20us,20170522_tumor_1p5mm_overlap100um_s1_m2_z100_20us++rot+90,rot+90,whole,Sixian,20170522,Stage2,3,462,1,2
+20170522_tumor_1p5mm_overlap100um_s1_m2_z100_20us,20170522_tumor_1p5mm_overlap100um_s1_m2_z100_20us++rot-90,rot-90,whole,Sixian,20170522,Stage2,3,470,1,2
+20170522_tumor_1p5mm_overlap100um_s1_m3_z100_20us,20170522_tumor_1p5mm_overlap100um_s1_m3_z100_20us++original,original,whole,Sixian,20170522,Stage2,3,463,1,2
+20170522_tumor_1p5mm_overlap100um_s1_m3_z100_20us,20170522_tumor_1p5mm_overlap100um_s1_m3_z100_20us++v_flip,v_flip,whole,Sixian,20170522,Stage2,3,465,1,2
+20170522_tumor_1p5mm_overlap100um_s1_m3_z100_20us,20170522_tumor_1p5mm_overlap100um_s1_m3_z100_20us++h_flip,h_flip,whole,Sixian,20170522,Stage2,3,459,1,2
+20170522_tumor_1p5mm_overlap100um_s1_m3_z100_20us,20170522_tumor_1p5mm_overlap100um_s1_m3_z100_20us++vh_flip,vh_flip,whole,Sixian,20170522,Stage2,3,466,1,2
+20170522_tumor_1p5mm_overlap100um_s1_m3_z100_20us,20170522_tumor_1p5mm_overlap100um_s1_m3_z100_20us++rot+90,rot+90,whole,Sixian,20170522,Stage2,3,467,1,2
+20170522_tumor_1p5mm_overlap100um_s1_m3_z100_20us,20170522_tumor_1p5mm_overlap100um_s1_m3_z100_20us++rot-90,rot-90,whole,Sixian,20170522,Stage2,3,456,1,2
+20170524_healthy_1mm_overlap100um_s1_m2_z170_20us,20170524_healthy_1mm_overlap100um_s1_m2_z170_20us++original,original,whole,Sixian,20170524,Healthy,3,501,0,0
+20170524_healthy_1mm_overlap100um_s1_m2_z170_20us,20170524_healthy_1mm_overlap100um_s1_m2_z170_20us++v_flip,v_flip,whole,Sixian,20170524,Healthy,3,499,0,0
+20170524_healthy_1mm_overlap100um_s1_m2_z170_20us,20170524_healthy_1mm_overlap100um_s1_m2_z170_20us++h_flip,h_flip,whole,Sixian,20170524,Healthy,3,496,0,0
+20170524_healthy_1mm_overlap100um_s1_m2_z170_20us,20170524_healthy_1mm_overlap100um_s1_m2_z170_20us++vh_flip,vh_flip,whole,Sixian,20170524,Healthy,3,484,0,0
+20170524_healthy_1mm_overlap100um_s1_m2_z170_20us,20170524_healthy_1mm_overlap100um_s1_m2_z170_20us++rot+90,rot+90,whole,Sixian,20170524,Healthy,3,494,0,0
+20170524_healthy_1mm_overlap100um_s1_m2_z170_20us,20170524_healthy_1mm_overlap100um_s1_m2_z170_20us++rot-90,rot-90,whole,Sixian,20170524,Healthy,3,477,0,0
+20170524_healthy_2mm_overlap100um_s1_m1_z170_20us,20170524_healthy_2mm_overlap100um_s1_m1_z170_20us++original,original,whole,Sixian,20170524,Healthy,3,478,0,0
+20170524_healthy_2mm_overlap100um_s1_m1_z170_20us,20170524_healthy_2mm_overlap100um_s1_m1_z170_20us++v_flip,v_flip,whole,Sixian,20170524,Healthy,3,495,0,0
+20170524_healthy_2mm_overlap100um_s1_m1_z170_20us,20170524_healthy_2mm_overlap100um_s1_m1_z170_20us++h_flip,h_flip,whole,Sixian,20170524,Healthy,3,490,0,0
+20170524_healthy_2mm_overlap100um_s1_m1_z170_20us,20170524_healthy_2mm_overlap100um_s1_m1_z170_20us++vh_flip,vh_flip,whole,Sixian,20170524,Healthy,3,487,0,0
+20170524_healthy_2mm_overlap100um_s1_m1_z170_20us,20170524_healthy_2mm_overlap100um_s1_m1_z170_20us++rot+90,rot+90,whole,Sixian,20170524,Healthy,3,505,0,0
+20170524_healthy_2mm_overlap100um_s1_m1_z170_20us,20170524_healthy_2mm_overlap100um_s1_m1_z170_20us++rot-90,rot-90,whole,Sixian,20170524,Healthy,3,500,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++original,original,area_1,Sixian,20171122,Healthy,1,122,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++original,original,area_2,Sixian,20171122,Healthy,1,184,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++original,original,area_3,Sixian,20171122,Healthy,1,281,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++original,original,area_4,Sixian,20171122,Healthy,1,154,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++v_flip,v_flip,area_1,Sixian,20171122,Healthy,1,303,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++v_flip,v_flip,area_2,Sixian,20171122,Healthy,1,301,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++v_flip,v_flip,area_3,Sixian,20171122,Healthy,1,230,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++v_flip,v_flip,area_4,Sixian,20171122,Healthy,1,153,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++h_flip,h_flip,area_1,Sixian,20171122,Healthy,1,167,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++h_flip,h_flip,area_2,Sixian,20171122,Healthy,1,264,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++h_flip,h_flip,area_3,Sixian,20171122,Healthy,1,168,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++h_flip,h_flip,area_4,Sixian,20171122,Healthy,1,246,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++vh_flip,vh_flip,area_1,Sixian,20171122,Healthy,1,146,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++vh_flip,vh_flip,area_2,Sixian,20171122,Healthy,1,106,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++vh_flip,vh_flip,area_3,Sixian,20171122,Healthy,1,171,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++vh_flip,vh_flip,area_4,Sixian,20171122,Healthy,1,245,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++rot+90,rot+90,area_1,Sixian,20171122,Healthy,1,145,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++rot+90,rot+90,area_2,Sixian,20171122,Healthy,1,202,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++rot+90,rot+90,area_3,Sixian,20171122,Healthy,1,135,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++rot+90,rot+90,area_4,Sixian,20171122,Healthy,1,296,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++rot-90,rot-90,area_1,Sixian,20171122,Healthy,1,279,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++rot-90,rot-90,area_2,Sixian,20171122,Healthy,1,283,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++rot-90,rot-90,area_3,Sixian,20171122,Healthy,1,139,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m1_z150_10us++rot-90,rot-90,area_4,Sixian,20171122,Healthy,1,291,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++original,original,area_1,Sixian,20171122,Healthy,1,274,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++original,original,area_2,Sixian,20171122,Healthy,1,298,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++original,original,area_3,Sixian,20171122,Healthy,1,302,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++original,original,area_4,Sixian,20171122,Healthy,1,311,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++v_flip,v_flip,area_1,Sixian,20171122,Healthy,1,104,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++v_flip,v_flip,area_2,Sixian,20171122,Healthy,1,183,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++v_flip,v_flip,area_3,Sixian,20171122,Healthy,1,216,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++v_flip,v_flip,area_4,Sixian,20171122,Healthy,1,136,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++h_flip,h_flip,area_1,Sixian,20171122,Healthy,1,289,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++h_flip,h_flip,area_2,Sixian,20171122,Healthy,1,199,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++h_flip,h_flip,area_3,Sixian,20171122,Healthy,1,206,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++h_flip,h_flip,area_4,Sixian,20171122,Healthy,1,310,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++vh_flip,vh_flip,area_1,Sixian,20171122,Healthy,1,112,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++vh_flip,vh_flip,area_2,Sixian,20171122,Healthy,1,232,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++vh_flip,vh_flip,area_3,Sixian,20171122,Healthy,1,290,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++vh_flip,vh_flip,area_4,Sixian,20171122,Healthy,1,98,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++rot+90,rot+90,area_1,Sixian,20171122,Healthy,1,214,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++rot+90,rot+90,area_2,Sixian,20171122,Healthy,1,231,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++rot+90,rot+90,area_3,Sixian,20171122,Healthy,1,212,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++rot+90,rot+90,area_4,Sixian,20171122,Healthy,1,156,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++rot-90,rot-90,area_1,Sixian,20171122,Healthy,1,247,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++rot-90,rot-90,area_2,Sixian,20171122,Healthy,1,151,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++rot-90,rot-90,area_3,Sixian,20171122,Healthy,1,195,0,0
+20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us,20171122_humanHealthy_1mm_FOV500um_s2_m2_z150_10us++rot-90,rot-90,area_4,Sixian,20171122,Healthy,1,130,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++original,original,area_1,Sixian,20171122,Healthy,1,120,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++original,original,area_2,Sixian,20171122,Healthy,1,170,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++original,original,area_3,Sixian,20171122,Healthy,1,277,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++original,original,area_4,Sixian,20171122,Healthy,1,128,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++v_flip,v_flip,area_1,Sixian,20171122,Healthy,1,118,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++v_flip,v_flip,area_2,Sixian,20171122,Healthy,1,237,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++v_flip,v_flip,area_3,Sixian,20171122,Healthy,1,166,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++v_flip,v_flip,area_4,Sixian,20171122,Healthy,1,100,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++h_flip,h_flip,area_1,Sixian,20171122,Healthy,1,288,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++h_flip,h_flip,area_2,Sixian,20171122,Healthy,1,263,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++h_flip,h_flip,area_3,Sixian,20171122,Healthy,1,132,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++h_flip,h_flip,area_4,Sixian,20171122,Healthy,1,105,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++vh_flip,vh_flip,area_1,Sixian,20171122,Healthy,1,193,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++vh_flip,vh_flip,area_2,Sixian,20171122,Healthy,1,215,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++vh_flip,vh_flip,area_3,Sixian,20171122,Healthy,1,282,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++vh_flip,vh_flip,area_4,Sixian,20171122,Healthy,1,143,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++rot+90,rot+90,area_1,Sixian,20171122,Healthy,1,256,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++rot+90,rot+90,area_2,Sixian,20171122,Healthy,1,300,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++rot+90,rot+90,area_3,Sixian,20171122,Healthy,1,285,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++rot+90,rot+90,area_4,Sixian,20171122,Healthy,1,208,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++rot-90,rot-90,area_1,Sixian,20171122,Healthy,1,254,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++rot-90,rot-90,area_2,Sixian,20171122,Healthy,1,99,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++rot-90,rot-90,area_3,Sixian,20171122,Healthy,1,186,0,0
+20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us,20171122_humanHealthy_1mm_FOV500um_s3_m1_z150_5us++rot-90,rot-90,area_4,Sixian,20171122,Healthy,1,275,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++original,original,area_1,Sixian,20171122,Healthy,1,259,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++original,original,area_2,Sixian,20171122,Healthy,1,251,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++original,original,area_3,Sixian,20171122,Healthy,1,233,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++original,original,area_4,Sixian,20171122,Healthy,1,299,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++v_flip,v_flip,area_1,Sixian,20171122,Healthy,1,243,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++v_flip,v_flip,area_2,Sixian,20171122,Healthy,1,226,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++v_flip,v_flip,area_3,Sixian,20171122,Healthy,1,115,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++v_flip,v_flip,area_4,Sixian,20171122,Healthy,1,308,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++h_flip,h_flip,area_1,Sixian,20171122,Healthy,1,260,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++h_flip,h_flip,area_2,Sixian,20171122,Healthy,1,204,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++h_flip,h_flip,area_3,Sixian,20171122,Healthy,1,119,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++h_flip,h_flip,area_4,Sixian,20171122,Healthy,1,185,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++vh_flip,vh_flip,area_1,Sixian,20171122,Healthy,1,205,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++vh_flip,vh_flip,area_2,Sixian,20171122,Healthy,1,276,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++vh_flip,vh_flip,area_3,Sixian,20171122,Healthy,1,234,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++vh_flip,vh_flip,area_4,Sixian,20171122,Healthy,1,110,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++rot+90,rot+90,area_1,Sixian,20171122,Healthy,1,227,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++rot+90,rot+90,area_2,Sixian,20171122,Healthy,1,113,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++rot+90,rot+90,area_3,Sixian,20171122,Healthy,1,174,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++rot+90,rot+90,area_4,Sixian,20171122,Healthy,1,210,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++rot-90,rot-90,area_1,Sixian,20171122,Healthy,1,297,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++rot-90,rot-90,area_2,Sixian,20171122,Healthy,1,292,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++rot-90,rot-90,area_3,Sixian,20171122,Healthy,1,152,0,0
+20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us,20171122_humanHealthy_1mm_FOV500um_s4_m1_z150_10us++rot-90,rot-90,area_4,Sixian,20171122,Healthy,1,179,0,0
+20210614_002_beforeBlackTissueMarker_Carle_039_Normal_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150,20210614_002_beforeBlackTissueMarker_Carle_039_Normal_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150++original,original,whole,Carle_2,carle2_Pat039,Cancer,3,472,1,1
+20210614_002_beforeBlackTissueMarker_Carle_039_Normal_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150,20210614_002_beforeBlackTissueMarker_Carle_039_Normal_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150++v_flip,v_flip,whole,Carle_2,carle2_Pat039,Cancer,3,457,1,1
+20210614_002_beforeBlackTissueMarker_Carle_039_Normal_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150,20210614_002_beforeBlackTissueMarker_Carle_039_Normal_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150++h_flip,h_flip,whole,Carle_2,carle2_Pat039,Cancer,3,460,1,1
+20210614_002_beforeBlackTissueMarker_Carle_039_Normal_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150,20210614_002_beforeBlackTissueMarker_Carle_039_Normal_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150++vh_flip,vh_flip,whole,Carle_2,carle2_Pat039,Cancer,3,457,1,1
+20210614_002_beforeBlackTissueMarker_Carle_039_Normal_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150,20210614_002_beforeBlackTissueMarker_Carle_039_Normal_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150++rot+90,rot+90,whole,Carle_2,carle2_Pat039,Cancer,3,471,1,1
+20210614_002_beforeBlackTissueMarker_Carle_039_Normal_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150,20210614_002_beforeBlackTissueMarker_Carle_039_Normal_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150++rot-90,rot-90,whole,Carle_2,carle2_Pat039,Cancer,3,466,1,1
+20210614_011_beforeBlackTissueMarker_Carle_039_Tumor_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150,20210614_011_beforeBlackTissueMarker_Carle_039_Tumor_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150++original,original,whole,Carle_2,carle2_Pat039,Cancer,3,461,1,1
+20210614_011_beforeBlackTissueMarker_Carle_039_Tumor_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150,20210614_011_beforeBlackTissueMarker_Carle_039_Tumor_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150++v_flip,v_flip,whole,Carle_2,carle2_Pat039,Cancer,3,464,1,1
+20210614_011_beforeBlackTissueMarker_Carle_039_Tumor_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150,20210614_011_beforeBlackTissueMarker_Carle_039_Tumor_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150++h_flip,h_flip,whole,Carle_2,carle2_Pat039,Cancer,3,462,1,1
+20210614_011_beforeBlackTissueMarker_Carle_039_Tumor_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150,20210614_011_beforeBlackTissueMarker_Carle_039_Tumor_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150++vh_flip,vh_flip,whole,Carle_2,carle2_Pat039,Cancer,3,459,1,1
+20210614_011_beforeBlackTissueMarker_Carle_039_Tumor_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150,20210614_011_beforeBlackTissueMarker_Carle_039_Tumor_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150++rot+90,rot+90,whole,Carle_2,carle2_Pat039,Cancer,3,469,1,1
+20210614_011_beforeBlackTissueMarker_Carle_039_Tumor_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150,20210614_011_beforeBlackTissueMarker_Carle_039_Tumor_Tissue_XY5_sp035_XY900_r0p5_lf50_n0p0c0p0_z150++rot-90,rot-90,whole,Carle_2,carle2_Pat039,Cancer,3,458,1,1
+20210624_008_LeftBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210624_008_LeftBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++original,original,whole,Carle_2,carle2_Pat041,Healthy,3,483,0,0
+20210624_008_LeftBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210624_008_LeftBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++v_flip,v_flip,whole,Carle_2,carle2_Pat041,Healthy,3,491,0,0
+20210624_008_LeftBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210624_008_LeftBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++h_flip,h_flip,whole,Carle_2,carle2_Pat041,Healthy,3,504,0,0
+20210624_008_LeftBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210624_008_LeftBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++vh_flip,vh_flip,whole,Carle_2,carle2_Pat041,Healthy,3,481,0,0
+20210624_008_LeftBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210624_008_LeftBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot+90,rot+90,whole,Carle_2,carle2_Pat041,Healthy,3,479,0,0
+20210624_008_LeftBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210624_008_LeftBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot-90,rot-90,whole,Carle_2,carle2_Pat041,Healthy,3,475,0,0
+20210624_007_RightBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210624_007_RightBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++original,original,whole,Carle_2,carle2_Pat041,Healthy,3,493,0,0
+20210624_007_RightBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210624_007_RightBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++v_flip,v_flip,whole,Carle_2,carle2_Pat041,Healthy,3,489,0,0
+20210624_007_RightBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210624_007_RightBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++h_flip,h_flip,whole,Carle_2,carle2_Pat041,Healthy,3,503,0,0
+20210624_007_RightBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210624_007_RightBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++vh_flip,vh_flip,whole,Carle_2,carle2_Pat041,Healthy,3,480,0,0
+20210624_007_RightBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210624_007_RightBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot+90,rot+90,whole,Carle_2,carle2_Pat041,Healthy,3,488,0,0
+20210624_007_RightBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210624_007_RightBreast_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot-90,rot-90,whole,Carle_2,carle2_Pat041,Healthy,3,492,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++original,original,area_1,Carle_2,carle2_Pat042,Healthy,1,209,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++original,original,area_2,Carle_2,carle2_Pat042,Healthy,1,268,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++original,original,area_3,Carle_2,carle2_Pat042,Healthy,1,116,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++original,original,area_4,Carle_2,carle2_Pat042,Healthy,1,250,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++v_flip,v_flip,area_1,Carle_2,carle2_Pat042,Healthy,1,125,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++v_flip,v_flip,area_2,Carle_2,carle2_Pat042,Healthy,1,220,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++v_flip,v_flip,area_3,Carle_2,carle2_Pat042,Healthy,1,252,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++v_flip,v_flip,area_4,Carle_2,carle2_Pat042,Healthy,1,196,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++h_flip,h_flip,area_1,Carle_2,carle2_Pat042,Healthy,1,222,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++h_flip,h_flip,area_2,Carle_2,carle2_Pat042,Healthy,1,295,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++h_flip,h_flip,area_3,Carle_2,carle2_Pat042,Healthy,1,236,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++h_flip,h_flip,area_4,Carle_2,carle2_Pat042,Healthy,1,240,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++vh_flip,vh_flip,area_1,Carle_2,carle2_Pat042,Healthy,1,149,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++vh_flip,vh_flip,area_2,Carle_2,carle2_Pat042,Healthy,1,203,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++vh_flip,vh_flip,area_3,Carle_2,carle2_Pat042,Healthy,1,96,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++vh_flip,vh_flip,area_4,Carle_2,carle2_Pat042,Healthy,1,248,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot+90,rot+90,area_1,Carle_2,carle2_Pat042,Healthy,1,269,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot+90,rot+90,area_2,Carle_2,carle2_Pat042,Healthy,1,201,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot+90,rot+90,area_3,Carle_2,carle2_Pat042,Healthy,1,249,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot+90,rot+90,area_4,Carle_2,carle2_Pat042,Healthy,1,121,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot-90,rot-90,area_1,Carle_2,carle2_Pat042,Healthy,1,126,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot-90,rot-90,area_2,Carle_2,carle2_Pat042,Healthy,1,304,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot-90,rot-90,area_3,Carle_2,carle2_Pat042,Healthy,1,140,0,0
+20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_007_Tissue_Carle042_Right_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot-90,rot-90,area_4,Carle_2,carle2_Pat042,Healthy,1,229,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++original,original,area_1,Carle_2,carle2_Pat042,Healthy,1,180,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++original,original,area_2,Carle_2,carle2_Pat042,Healthy,1,178,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++original,original,area_3,Carle_2,carle2_Pat042,Healthy,1,173,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++original,original,area_4,Carle_2,carle2_Pat042,Healthy,1,200,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++v_flip,v_flip,area_1,Carle_2,carle2_Pat042,Healthy,1,131,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++v_flip,v_flip,area_2,Carle_2,carle2_Pat042,Healthy,1,129,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++v_flip,v_flip,area_3,Carle_2,carle2_Pat042,Healthy,1,238,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++v_flip,v_flip,area_4,Carle_2,carle2_Pat042,Healthy,1,142,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++h_flip,h_flip,area_1,Carle_2,carle2_Pat042,Healthy,1,309,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++h_flip,h_flip,area_2,Carle_2,carle2_Pat042,Healthy,1,280,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++h_flip,h_flip,area_3,Carle_2,carle2_Pat042,Healthy,1,181,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++h_flip,h_flip,area_4,Carle_2,carle2_Pat042,Healthy,1,147,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++vh_flip,vh_flip,area_1,Carle_2,carle2_Pat042,Healthy,1,242,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++vh_flip,vh_flip,area_2,Carle_2,carle2_Pat042,Healthy,1,257,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++vh_flip,vh_flip,area_3,Carle_2,carle2_Pat042,Healthy,1,172,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++vh_flip,vh_flip,area_4,Carle_2,carle2_Pat042,Healthy,1,117,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot+90,rot+90,area_1,Carle_2,carle2_Pat042,Healthy,1,305,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot+90,rot+90,area_2,Carle_2,carle2_Pat042,Healthy,1,108,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot+90,rot+90,area_3,Carle_2,carle2_Pat042,Healthy,1,278,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot+90,rot+90,area_4,Carle_2,carle2_Pat042,Healthy,1,286,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot-90,rot-90,area_1,Carle_2,carle2_Pat042,Healthy,1,109,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot-90,rot-90,area_2,Carle_2,carle2_Pat042,Healthy,1,111,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot-90,rot-90,area_3,Carle_2,carle2_Pat042,Healthy,1,235,0,0
+20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180,20210625_006_Tissue_Carle042_Left_XY5_sp35_XY900_r0p5_lf50_n0p0c0p0_z180++rot-90,rot-90,area_4,Carle_2,carle2_Pat042,Healthy,1,103,0,0

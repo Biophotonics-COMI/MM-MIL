@@ -10,6 +10,11 @@ We propose MM-MIL for the discovery of novel optical signatures when only coarse
 * Pytorch
 * Nvidia GPU + CUDA
 
+1. jsondiff
+2. tdpm
+3. tifffile
+4. Captum
+
 ## Usage
 (Will be updated)
 
