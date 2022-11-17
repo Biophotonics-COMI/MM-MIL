@@ -56,13 +56,6 @@ if mode == 10:  # only test
         with open(config_path) as f:
             config = json.load(f)
             f.close()
-        # config['dataset']['metadata']['meta_path'] = 'input/metadata/index_final_selected.csv'
-        # config['dataset']['images']['image_folder'] = '/home/derek/NewStorage/All_Data/2020_WSL_SLAM_test/All_SLAM_tiles/All_images'
-        # config['dataset']['images']['grid_folder'] = '/home/derek/NewStorage/All_Data/2020_WSL_SLAM_test/All_SLAM_tiles/grid_files'
-        config['dataset']['images']['image_folder'] = '/home/derek/NewStorage/All_data/2020_WSL_SLAM/All_SLAM_tiles/All_images'
-        config['dataset']['images']['grid_folder'] = '/home/derek/NewStorage/All_data/2020_WSL_SLAM/All_SLAM_tiles/grid_files'
-        # config['dataset']['merge_object']['merge_field'] = "b++trans"
-        config['dataset']['merge_object']['merge_field'] = "bag"
 
         for tp_id in project_dict[project_id]:
             mil_test.test_model(config, project_path, check_point='best', train_result=tp_id, only_clean_sample=False)
@@ -93,10 +86,7 @@ elif mode == 2:  # saliency map
     print('************ MILclassifier ************')
     print('Copyright (c) 2020 UIUC\nWritten by Jindou Shi')
     print('***************************************')
-
-    '''proj_tp_dict = {'project2_fine_tune_256': ['TrainingProcess_20211030-175627']}'''
-
-    proj_tp_dict = {'project1_test_topK_256': ['TrainingProcess_20211024-005744']}
+    proj_tp_dict = {'project_0_demo': ['TrainingProcess_20211024-005744']}
 
     for project_id in proj_tp_dict.keys():
         t_results = proj_tp_dict[project_id]
